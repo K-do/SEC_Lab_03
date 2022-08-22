@@ -1,0 +1,7 @@
+# policies
+p, HR, changePhone
+p, HR, addUser
+p, StandardUser, changeOwnPhone
+
+# role inheritance
+g, HR, StandardUser
